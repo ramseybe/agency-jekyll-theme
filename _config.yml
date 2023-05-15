@@ -57,8 +57,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 893 W Eisenhower Pkwy Unit B
+  - line: Ann Arbor, MI 48103
 
 # Build settings
 markdown: kramdown
